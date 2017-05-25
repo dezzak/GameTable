@@ -4605,7 +4605,6 @@ public class GametableFrame extends JFrame implements ActionListener
         }
     }
 
-
     public void saveMacros()
     {
         final File oldFile = m_actingFileMacros;
